@@ -1,0 +1,9 @@
+{
+  "products": [
+    {"pid": 94,  "name": "CN2 GIA-E 10G",      "price": "49.99", "desc": "10G SSD / 0.5G RAM / 1Gbps"},
+    {"pid": 105, "name": "CN2 GIA-E 20G",      "price": "89.99", "desc": "20G SSD / 1G RAM / 1Gbps"},
+    {"pid": 132, "name": "CN2 GIA-E 20G 2.5G", "price": "89.90", "desc": "20G SSD / 1G RAM / 2.5Gbps"}
+  ],
+  "check_url": "https://bwh81.net/cart.php?a=add&pid={pid}",
+  "buy_url": "https://bwh81.net/cart.php?a=add&pid={pid}"
+}
